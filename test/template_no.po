@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sample Project\n"
+"POT-Creation-Date: 2017-1-10\n"
+"PO-Revision-Date: 2017-1-10\n"
+"Last-Translator: \n"
+"Language-Team: My Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: no\n"
+"X-Generator: None\n"
+
+msgid "CHANGE_STATUS"
+msgstr "Endre status"
+
+msgid "STEP.FIRST"
+msgstr "Første"
+
+msgid "STEP.SECOND"
+msgstr "Andre"
+
+msgid "STEP.INDENT.FIRST"
+msgstr "Første indent"
+
+msgid "STEP.INDENT.SECOND"
+msgstr "Andre indent"
+
+msgid "REGULAR"
+msgstr "Vanlig"

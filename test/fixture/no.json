@@ -1,0 +1,13 @@
+{
+  "CHANGE_STATUS": "Endre status",
+  "STEP": {
+    "FIRST": "Første",
+    "SECOND": "Andre",
+    "INDENT": {
+      "FIRST": "Første indent",
+      "SECOND": "Andre indent"
+    }
+  },
+
+  "REGULAR": "Vanlig"
+}

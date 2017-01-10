@@ -1,0 +1,34 @@
+{
+  "name": "gulp-json2po",
+  "version": "1.0.0",
+  "description": "gulp plugin for converting json to po",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp --gulpfile test/gulpfile.js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvx89/gulp-json2po.git"
+  },
+  "keywords": [
+    "gulp",
+    "json",
+    "po"
+  ],
+  "author": "Lasse Brudeskar Vikås",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvx89/gulp-json2po/issues"
+  },
+  "homepage": "https://github.com/bvx89/gulp-json2po#readme",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "gulp-util": "^3.0.7",
+    "json2po": "^1.0.5",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2"
+  }
+}
